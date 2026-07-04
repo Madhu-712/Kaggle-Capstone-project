@@ -1,0 +1,11 @@
+project_id,project_name,status,risk_score
+P001,Atlas,Delayed,82
+P002,Phoenix,On Track,25
+P003,Orion,At Risk,71
+P004,Nova,On Track,30
+P005,Titan,Delayed,78
+P006,Apex,On Track,20
+P007,Zenith,On Track,15
+P008,Pulse,At Risk,69
+P009,Vertex,Delayed,88
+P010,Nimbus,On Track,22

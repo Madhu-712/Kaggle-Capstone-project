@@ -1,0 +1,11 @@
+ticket_id,customer_id,priority,resolution_days
+T001,C001,High,5
+T002,C002,Low,1
+T003,C003,Medium,3
+T004,C004,High,7
+T005,C005,Low,2
+T006,C006,Medium,4
+T007,C007,High,6
+T008,C008,Low,1
+T009,C009,Medium,3
+T010,C010,High,8

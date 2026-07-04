@@ -1,0 +1,11 @@
+employee_id,employee_name,department_id,utilization_pct
+E001,John,D001,92
+E002,Priya,D001,96
+E003,David,D002,78
+E004,Anita,D003,65
+E005,Rahul,D001,88
+E006,Sara,D004,72
+E007,Mike,D005,60
+E008,Neha,D002,81
+E009,Arjun,D001,95
+E010,Lisa,D004,69

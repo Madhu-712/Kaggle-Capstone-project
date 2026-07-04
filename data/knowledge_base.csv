@@ -1,0 +1,6 @@
+doc_id,document_name,category,content
+DOC001,Project Governance Policy,Operations,"Projects with risk score above 75 must be escalated to leadership. Projects delayed more than 10 days require corrective action plans."
+DOC002,Workforce Management Policy,HR,"Employees above 90 percent utilization for more than 30 days should be reviewed for burnout risk."
+DOC003,Customer Success Playbook,Customer,"NPS below 5 indicates high churn risk. Enterprise customers with NPS below 5 require retention outreach."
+DOC004,Financial Governance Policy,Finance,"Budget variance above 10 percent requires escalation and finance approval."
+DOC005,Vendor Risk Compliance Policy,Risk,"High-risk vendors must undergo quarterly review. Contracts expiring within 30 days should trigger renewal workflows."

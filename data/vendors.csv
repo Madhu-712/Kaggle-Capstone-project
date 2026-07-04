@@ -1,0 +1,11 @@
+vendor_id,vendor_name,risk_score,contract_expiry
+V001,Vendor_1,20,2026-12-31
+V002,Vendor_2,35,2026-12-31
+V003,Vendor_3,80,2026-12-31
+V004,Vendor_4,45,2026-12-31
+V005,Vendor_5,60,2026-12-31
+V006,Vendor_6,25,2026-12-31
+V007,Vendor_7,90,2026-12-31
+V008,Vendor_8,30,2026-12-31
+V009,Vendor_9,70,2026-12-31
+V010,Vendor_10,55,2026-12-31

@@ -821,7 +821,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Developed For
 
-**Hack2Skill – GenAI Academy Cohort 2**
+**Kaggle capstone project**
 
 **Problem Statement 2 – Enterprise Operations & Automation**
 

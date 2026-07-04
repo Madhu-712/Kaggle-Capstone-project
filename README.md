@@ -823,7 +823,7 @@ This project is licensed under the **MIT License**.
 
 **Kaggle capstone project**
 
-**Problem Statement 2 – Enterprise Operations & Automation**
+**Enterprise Operations & Automation**
 
 Built with ❤️ using:
 

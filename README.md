@@ -38,6 +38,21 @@ By adopting sophasticated **NVIDIA tech stack** GCP's **Vertex AI Engine**  is  
 
 ---
 
+
+# 🚀 Live Demo
+
+### Google Agent Runtime Playground
+
+> Requires authenticated Google Cloud access.
+
+https://console.cloud.google.com/agent-platform/runtimes/locations/us-central1/agent-engines/4736043532307922944/playground
+
+### deployed on aistudio
+https://enterpriseops-decision-intelligence-console-881601845310.asia-southeast1.run.app/
+
+---
+
+
 # 🎯 Problem Statement
 
 Modern enterprises generate enormous volumes of operational data across departments such as finance, customer support, operations, and procurement.
@@ -85,16 +100,6 @@ making the system behave more like an enterprise leadership team than a chatbot.
 - 🔐 Secure Tool-based SQL Execution
 ---
 
-# 🚀 Live Demo
-
-### Google Agent Runtime Playground
-
-> Requires authenticated Google Cloud access.
-
-https://console.cloud.google.com/agent-platform/runtimes/locations/us-central1/agent-engines/4736043532307922944/playground
-
-### deployed on aistudio
-https://enterpriseops-decision-intelligence-console-881601845310.asia-southeast1.run.app/
 
 ---
 

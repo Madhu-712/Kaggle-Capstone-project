@@ -93,6 +93,9 @@ making the system behave more like an enterprise leadership team than a chatbot.
 
 https://console.cloud.google.com/agent-platform/runtimes/locations/us-central1/agent-engines/4736043532307922944/playground
 
+### deployed on aistudio
+https://enterpriseops-decision-intelligence-console-881601845310.asia-southeast1.run.app/
+
 ---
 
 # 📸 Application Screenshots
